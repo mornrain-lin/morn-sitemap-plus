@@ -1,4 +1,4 @@
-![mornrain-sitemap-plus](assets/admin.png)
+![mornrain-sitemap-plus](assets/preview.png)
 
 # Morn Sitemap Plus
 
@@ -10,9 +10,7 @@
 - 需要 WordPress：6.0+
 - 需要 PHP：7.4+
 - 测试至：WordPress 6.6
-- 许可证：MIT## 界面预览
-
-![后台设置界面](assets/admin.png)
+- 许可证：MIT
 
 ## 特性
 
