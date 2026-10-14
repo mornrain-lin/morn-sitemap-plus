@@ -1,3 +1,5 @@
+![mornrain-sitemap-plus](assets/preview.png)
+
 # Morn Sitemap Plus
 
 增强型站点地图插件。生成符合 sitemaps.org 0.9 规范的独立 XML 站点地图与自动分片子站图，支持图片站点地图与 Google News 站点地图扩展，带 HTTP 条件请求（304）与搜索引擎 ping 通知。
